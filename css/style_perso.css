@@ -1,0 +1,12 @@
+/* page header */
+header {
+    background-color:black;
+  }
+  .position_logo{
+      object-position: left;
+  }
+  .menu{
+    align-items:right;
+    justify-content: right;
+    color: aliceblue;
+  }

@@ -1,0 +1,26 @@
+/*Code css personnalisé*/
+.form-commentaire{
+  text-align: left !important;
+  }
+.form-commentaire-only {
+  position: relative;
+  width: 180px;
+  height: 40px;
+  padding: 0;
+  margin: -1px;
+  overflow: auto;
+  white-space: pre-line;
+  border: 0.5;
+}
+.jourInstanceEleve {
+  background-color:#cd3c14;
+  border-color: #cd3c14;
+}
+.jourInstanceMilieu {
+  background-color: #ffcc00;
+  border-color: #ffcc00;
+}
+.jourInstanceNormal {
+  background-color: #32c832;
+  border-color: #32c832;
+}
